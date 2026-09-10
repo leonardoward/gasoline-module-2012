@@ -1,0 +1,31 @@
+<CodeGenerationInfo>
+  <ToolchainSettings />
+  <GeneratedFilesList>
+    <GeneratedByPE>
+      <File Name="Documentation\Gasolina.txt" FileDate="2012-12-26, 11:45:00" FileAge="1356538500737" FileType="3072" />
+      <File Name="Documentation\Gasolina_SIGNALS.txt" FileDate="2014-02-05, 14:41:40" FileAge="1391627500965" FileType="3072" />
+      <File Name="Generated_Code\IO_Map.c" FileDate="2012-12-26, 11:45:00" FileAge="1356538500413" FileType="4411" />
+      <File Name="Generated_Code\LED.h" FileDate="2012-12-26, 11:45:00" FileAge="1356538500517" FileType="4411" />
+      <File Name="Documentation\Gasolina_Settings.xml" FileDate="2012-12-26, 11:45:00" FileAge="1356538500657" FileType="3072" />
+      <File Name="Generated_Code\LED.c" FileDate="2012-12-26, 11:45:00" FileAge="1356538500507" FileType="4411" />
+      <File Name="Project Settings\Linker_Files\Gasolina.prm" FileDate="2012-12-26, 11:45:00" FileAge="1356538500374" FileType="4" />
+      <File Name="Generated_Code\Sensor.h" FileDate="2012-12-26, 11:45:00" FileAge="1356538500566" FileType="4411" />
+      <File Name="Generated_Code\PE_Error.h" FileDate="2012-12-26, 11:45:00" FileAge="1356538500460" FileType="4411" />
+      <File Name="Generated_Code\TI1.h" FileDate="2012-12-26, 11:45:00" FileAge="1356538500499" FileType="4411" />
+      <File Name="Generated_Code\Sensor.c" FileDate="2012-12-26, 11:45:00" FileAge="1356538500555" FileType="4411" />
+      <File Name="Generated_Code\CAN1.h" FileDate="2012-12-26, 11:45:00" FileAge="1356538500538" FileType="4411" />
+      <File Name="Generated_Code\TI1.c" FileDate="2012-12-26, 11:45:00" FileAge="1356538500477" FileType="4411" />
+      <File Name="Generated_Code\CAN1.c" FileDate="2012-12-26, 11:45:00" FileAge="1356538500529" FileType="4411" />
+      <File Name="Generated_Code\Cpu.h" FileDate="2012-12-26, 11:45:00" FileAge="1356538500399" FileType="4411" />
+      <File Name="Generated_Code\PE_Types.h" FileDate="2012-12-26, 11:45:00" FileAge="1356538500467" FileType="4411" />
+      <File Name="Generated_Code\Cpu.c" FileDate="2012-12-26, 11:45:00" FileAge="1356538500386" FileType="4411" />
+      <File Name="Generated_Code\Vectors.c" FileDate="2012-12-26, 11:45:00" FileAge="1356538500327" FileType="4411" />
+      <File Name="Sources\Events.h" FileDate="2012-11-24, 16:16:04" FileAge="1353789964130" FileType="16896" />
+      <File Name="Sources\Events.c" FileDate="2014-02-05, 14:10:35" FileAge="1391625635312" FileType="16896" />
+      <File Name="Sources\Gasolina.c" FileDate="2012-11-24, 16:16:04" FileAge="1353789964286" FileType="128" />
+      <File Name="Generated_Code\PE_Const.h" FileDate="2012-12-26, 11:45:00" FileAge="1356538500453" FileType="4411" />
+      <File Name="Generated_Code\IO_Map.h" FileDate="2012-12-26, 11:45:00" FileAge="1356538500438" FileType="4411" />
+    </GeneratedByPE>
+  </GeneratedFilesList>
+  <CodeGenReference>5</CodeGenReference>
+</CodeGenerationInfo>

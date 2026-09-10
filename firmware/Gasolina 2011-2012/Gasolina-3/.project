@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Gasolina-2</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.cdt.managedbuilder.core.genmakebuilder</name>
+			<triggers>clean,full,incremental,</triggers>
+			<arguments>
+				<dictionary>
+					<key>?name?</key>
+					<value></value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.append_environment</key>
+					<value>true</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.buildArguments</key>
+					<value>-j8</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.buildCommand</key>
+					<value>${system:ECLIPSE_HOME}/../gnu/bin/mingw32-make</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.buildLocation</key>
+					<value>${ProjDirPath}/Standard</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.contents</key>
+					<value>org.eclipse.cdt.make.core.activeConfigSettings</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.enableAutoBuild</key>
+					<value>false</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.enableCleanBuild</key>
+					<value>true</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.enableFullBuild</key>
+					<value>true</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.stopOnError</key>
+					<value>true</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.useDefaultBuildCmd</key>
+					<value>true</value>
+				</dictionary>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.eclipse.cdt.managedbuilder.core.ScannerConfigBuilder</name>
+			<triggers>full,incremental,</triggers>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.cdt.core.cnature</nature>
+		<nature>org.eclipse.cdt.managedbuilder.core.managedBuildNature</nature>
+		<nature>org.eclipse.cdt.managedbuilder.core.ScannerConfigNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>Doc</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>Generated Code</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>Libs</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>Project Settings</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>User Modules</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>Doc/Gasolina.txt</name>
+			<type>1</type>
+			<locationURI>CW_IMPORTER_ProjectDir/DOC/Gasolina.txt</locationURI>
+		</link>
+		<link>
+			<name>Doc/Gasolina_SIGNALS.txt</name>
+			<type>1</type>
+			<locationURI>CW_IMPORTER_ProjectDir/DOC/Gasolina_SIGNALS.txt</locationURI>
+		</link>
+		<link>
+			<name>Doc/Gasolina_Settings.xml</name>
+			<type>1</type>
+			<locationURI>CW_IMPORTER_ProjectDir/DOC/Gasolina_Settings.xml</locationURI>
+		</link>
+		<link>
+			<name>Generated Code/CAN1.c</name>
+			<type>1</type>
+			<locationURI>CW_IMPORTER_ProjectDir/CODE/CAN1.c</locationURI>
+		</link>
+		<link>
+			<name>Generated Code/Cpu.c</name>
+			<type>1</type>
+			<locationURI>CW_IMPORTER_ProjectDir/CODE/Cpu.c</locationURI>
+		</link>
+		<link>
+			<name>Generated Code/IO_Map.c</name>
+			<type>1</type>
+			<locationURI>CW_IMPORTER_ProjectDir/CODE/IO_Map.c</locationURI>
+		</link>
+		<link>
+			<name>Generated Code/LED.c</name>
+			<type>1</type>
+			<locationURI>CW_IMPORTER_ProjectDir/CODE/LED.c</locationURI>
+		</link>
+		<link>
+			<name>Generated Code/Sensor.c</name>
+			<type>1</type>
+			<locationURI>CW_IMPORTER_ProjectDir/CODE/Sensor.c</locationURI>
+		</link>
+		<link>
+			<name>Generated Code/TI1.c</name>
+			<type>1</type>
+			<locationURI>CW_IMPORTER_ProjectDir/CODE/TI1.c</locationURI>
+		</link>
+		<link>
+			<name>Generated Code/Vectors.c</name>
+			<type>1</type>
+			<locationURI>CW_IMPORTER_ProjectDir/CODE/Vectors.c</locationURI>
+		</link>
+		<link>
+			<name>Libs/ansiis.lib</name>
+			<type>1</type>
+			<locationURI>CW_IMPORTER_Compiler/lib/hc08c/lib/ansiis.lib</locationURI>
+		</link>
+		<link>
+			<name>Project Settings/Linker Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>Project Settings/Startup Code</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>User Modules/Events.c</name>
+			<type>1</type>
+			<locationURI>CW_IMPORTER_ProjectDir/CODE/Events.c</locationURI>
+		</link>
+		<link>
+			<name>User Modules/Events.h</name>
+			<type>1</type>
+			<locationURI>CW_IMPORTER_ProjectDir/CODE/Events.h</locationURI>
+		</link>
+		<link>
+			<name>User Modules/Gasolina.c</name>
+			<type>1</type>
+			<locationURI>CW_IMPORTER_ProjectDir/CODE/Gasolina.c</locationURI>
+		</link>
+		<link>
+			<name>Project Settings/Linker Files/Gasolina.prm</name>
+			<type>1</type>
+			<locationURI>CW_IMPORTER_ProjectDir/CODE/Gasolina.prm</locationURI>
+		</link>
+		<link>
+			<name>Project Settings/Linker Files/Project.map</name>
+			<type>1</type>
+			<locationURI>CW_IMPORTER_ProjectDir/bin/Project.map</locationURI>
+		</link>
+		<link>
+			<name>Project Settings/Linker Files/burner.bbl</name>
+			<type>1</type>
+			<locationURI>CW_IMPORTER_ProjectDir/prm/burner.bbl</locationURI>
+		</link>
+		<link>
+			<name>Project Settings/Startup Code/Start08.c</name>
+			<type>1</type>
+			<locationURI>CW_IMPORTER_ProjectDir/Sources/Start08.c</locationURI>
+		</link>
+	</linkedResources>
+	<variableList>
+		<variable>
+			<name>CW_IMPORTER_Compiler</name>
+			<value>file:/C:/Freescale/CW%20MCU%20v10.2/MCU</value>
+		</variable>
+		<variable>
+			<name>CW_IMPORTER_ProjectDir</name>
+			<value>$%7BPARENT-1-PROJECT_LOC%7D</value>
+		</variable>
+	</variableList>
+</projectDescription>
